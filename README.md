@@ -9,3 +9,7 @@
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://www.ruby-lang.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
+
+### Interesting stats
+
+![Monesh Kannan's stats](https://github-readme-stats.vercel.app/api?username=moneshkannan&show_icons=true)
