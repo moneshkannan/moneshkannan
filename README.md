@@ -13,3 +13,7 @@
 ### Interesting stats
 
 ![Monesh Kannan's stats](https://github-readme-stats.vercel.app/api?username=moneshkannan&show_icons=true)
+
+<!-- <a href="https://github.com/moneshkannan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneshkannan&theme=radical&hide=glsl,python" />
+</a> -->
